@@ -79,4 +79,4 @@ To view a live example, **[click here](https://JohnBoulanger.github.io/)**
 
 ## License 📄
 * This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-* This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
+* This repo is a clone of https://github.com/JohnBoulanger/JohnBoulanger.github.io
