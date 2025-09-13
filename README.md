@@ -68,6 +68,15 @@ To view a live example, **[click here](https://JohnBoulanger.github.io/)**
 
 - 🔃 Create a new pull request.
 
+## Activity 1
+### Create and clone repo
+<p align="center"> 
+  <kbd>
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/clonecomplete.png">
+  </a>
+  </kbd>
+</p>
+
 ## License 📄
 * This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 * This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
