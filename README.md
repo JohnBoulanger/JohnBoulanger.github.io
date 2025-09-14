@@ -77,6 +77,21 @@ To view a live example, **[click here](https://JohnBoulanger.github.io/)**
   </kbd>
 </p>
 
+## Activity 2
+### 
+<p align="center"> 
+  <kbd>
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/about.png">
+  </a>
+  </kbd>
+</p>
+<p align="center"> 
+  <kbd>
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/experience.png">
+  </a>
+  </kbd>
+</p>
+
 ## License 📄
 * This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 * This repo is a clone of https://github.com/JohnBoulanger/JohnBoulanger.github.io
