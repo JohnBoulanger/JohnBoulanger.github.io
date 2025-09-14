@@ -312,7 +312,7 @@ h3 {
 } */
 
 #intro.section {
-  background: var(--primary-blue) repeat;
+  background: var(--light-blue) repeat;
   position: relative;
 }
 
