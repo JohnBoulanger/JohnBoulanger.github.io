@@ -69,7 +69,7 @@ To view a live example, **[click here](https://JohnBoulanger.github.io/)**
 - 🔃 Create a new pull request.
 
 ## Activity 1
-### Create and clone repo
+### Create and Clone Repo
 <p align="center"> 
   <kbd>
     <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/clonecomplete.png">
@@ -78,7 +78,7 @@ To view a live example, **[click here](https://JohnBoulanger.github.io/)**
 </p>
 
 ## Activity 2
-### 
+### Add Personal Info
 <p align="center"> 
   <kbd>
     <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/about.png">
@@ -88,6 +88,15 @@ To view a live example, **[click here](https://JohnBoulanger.github.io/)**
 <p align="center"> 
   <kbd>
     <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/experience.png">
+  </a>
+  </kbd>
+</p>
+
+## Activity 3
+### Changing Theme Color
+<p align="center"> 
+  <kbd>
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/updatecolor.png">
   </a>
   </kbd>
 </p>
