@@ -117,7 +117,7 @@
 }
 
 .contactme:hover{
-  color: var(--secondary-blue);
+  color: var(--light-blue);
   background-color: white;
 }
 /* main body */
@@ -141,7 +141,7 @@ body {
 } */
 
 a {
-  color: var(--secondary-blue);
+  color: var(--light-blue);
 }
 
 /* main blockqoute */
@@ -465,7 +465,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid var(--secondary-blue) !important;
+  border-bottom: 3px solid var(--light-blue) !important;
 }
 
 #skills .card.large {
