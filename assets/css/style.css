@@ -1,3 +1,8 @@
+:root {
+  --primary-blue: #1b45ba;
+  --secondary-blue: #032c9d;
+}
+
 .profile-pic {
   position: relative;
   max-width:130px;
@@ -85,7 +90,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: var(--primary-blue);
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -94,11 +99,6 @@
   border-radius: 5px;
   -webkit-border-radius: 5px;
 }
-
-/* .readme:hover{
-  color: white;
-  background-color: #00796b;
-} */
 
 .contactme {
   position: relative;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: var(--secondary-blue);
   background-color: white;
 }
 /* main body */
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: var(--secondary-blue);
 }
 
 /* main blockqoute */
@@ -153,15 +153,6 @@ a {
   margin: 20px 0;
   padding-left: 1.5rem;
 } */
-
-blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-}
 
 blockquote * {
   font-size: inherit;
@@ -237,7 +228,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: var(--primary-blue);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -473,7 +464,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid var(--secondary-blue) !important;
 }
 
 #skills .card.large {
@@ -549,7 +540,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: var(--primary-blue) !important;
 }
 
 /* .teal-text {
@@ -559,7 +550,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: var(--primary-blue) !important;
 }
 
 /* .teal {
@@ -606,7 +597,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: var(--primary-blue);
     height: 56px;
     line-height: 56px;
   }
