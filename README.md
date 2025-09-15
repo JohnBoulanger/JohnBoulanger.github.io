@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/updatecolor.png">
   </a>
   </kbd>
 </p>
@@ -106,6 +106,33 @@ To view a live example, **[click here](https://JohnBoulanger.github.io/)**
 <p align="center"> 
   <kbd>
     <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/embedmaps.png">
+  </a>
+  </kbd>
+</p>
+
+## Activity 5
+### Adding Dynamic Content with JS
+<p align="center"> 
+  <kbd>
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/updatecolor.png">
+  </a>
+  </kbd>
+</p>
+<p align="center"> 
+  <kbd>
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/updatecolor.png">
+  </a>
+  </kbd>
+</p>
+<p align="center"> 
+  <kbd>
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/updatecolor.png">
+  </a>
+  </kbd>
+</p>
+<p align="center"> 
+  <kbd>
+    <a href="https://JohnBoulanger.github.io" target="_blank"><img src="screenshots/updatecolor.png">
   </a>
   </kbd>
 </p>
