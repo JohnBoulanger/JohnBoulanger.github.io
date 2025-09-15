@@ -16,7 +16,79 @@ const projects = [
     blurb: "A classic Donkey Kong game implemented in C.",
     tools: ["C", "CPUlator", "DE1-SoC", "VGA display", "PS/2 keyboard"],
     repo: "https://github.com/JohnBoulanger/DonkeyKongGame"
-  }
+  },
+  {
+    id: "weather-app",
+    title: "Weather Forecast App",
+    date: "2023-10-05",
+    image: "",
+    blurb: "A simple weather app fetching live data from OpenWeather API.",
+    tools: ["JavaScript", "HTML", "CSS", "OpenWeather API"],
+    repo: "https://github.com/JohnBoulanger/weather-app"
+    },
+    {
+    id: "chatbot-python",
+    title: "Customer Support Chatbot",
+    date: "2023-09-18",
+    image: "",
+    blurb: "A Python chatbot that handles basic customer support queries.",
+    tools: ["Python", "Flask", "NLTK"],
+    repo: "https://github.com/JohnBoulanger/chatbot-python"
+    },
+    {
+    id: "portfolio-site",
+    title: "Personal Portfolio Website",
+    date: "2023-08-10",
+    image: "",
+    blurb: "A responsive portfolio site to showcase projects and skills.",
+    tools: ["React", "CSS", "Netlify"],
+    repo: "https://github.com/JohnBoulanger/portfolio-site"
+    },
+    {
+    id: "task-manager",
+    title: "Task Manager API",
+    date: "2023-07-22",
+    image: "",
+    blurb: "REST API for creating and managing tasks.",
+    tools: ["Node.js", "Express", "MongoDB"],
+    repo: "https://github.com/JohnBoulanger/task-manager"
+    },
+    {
+    id: "stock-visualizer",
+    title: "Stock Market Visualizer",
+    date: "2023-06-14",
+    image: "",
+    blurb: "Tool to visualize stock data with interactive graphs.",
+    tools: ["Python", "Pandas", "matplotlib"],
+    repo: "https://github.com/JohnBoulanger/stock-visualizer"
+    },
+    {
+    id: "blog-platform",
+    title: "Mini Blogging Platform",
+    date: "2023-05-09",
+    image: "",
+    blurb: "A small blogging platform with user authentication.",
+    tools: ["Django", "SQLite", "Bootstrap"],
+    repo: "https://github.com/JohnBoulanger/blog-platform"
+    },
+    {
+    id: "game-engine",
+    title: "2D Game Engine",
+    date: "2023-04-25",
+    image: "",
+    blurb: "A basic 2D game engine with physics and collision detection.",
+    tools: ["C++", "SDL2"],
+    repo: "https://github.com/JohnBoulanger/game-engine"
+    },
+    {
+    id: "expense-tracker",
+    title: "Expense Tracker App",
+    date: "2023-03-12",
+    image: "",
+    blurb: "Tracks personal expenses and generates monthly reports.",
+    tools: ["React", "Firebase"],
+    repo: "https://github.com/JohnBoulanger/expense-tracker"
+    }
 ];
 
 let visibleProjectsCount = 1;
