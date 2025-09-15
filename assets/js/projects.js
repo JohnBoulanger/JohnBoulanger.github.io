@@ -21,7 +21,7 @@ const projects = [
     id: "weather-app",
     title: "Weather Forecast App",
     date: "2023-10-05",
-    image: "/assets/img/donkeykong.png",
+    image: "/assets/img/expic.png",
     blurb: "A simple weather app fetching live data from OpenWeather API.",
     tools: ["JavaScript", "HTML", "CSS", "OpenWeather API"],
     repo: "https://github.com/JohnBoulanger/weather-app"
@@ -30,7 +30,7 @@ const projects = [
     id: "chatbot-python",
     title: "Customer Support Chatbot",
     date: "2023-09-18",
-    image: "/assets/img/donkeykong.png",
+    image: "/assets/img/expic.png",
     blurb: "A Python chatbot that handles basic customer support queries.",
     tools: ["Python", "Flask", "NLTK"],
     repo: "https://github.com/JohnBoulanger/chatbot-python"
@@ -39,7 +39,7 @@ const projects = [
     id: "portfolio-site",
     title: "Personal Portfolio Website",
     date: "2023-08-10",
-    image: "/assets/img/donkeykong.png",
+    image: "/assets/img/expic.png",
     blurb: "A responsive portfolio site to showcase projects and skills.",
     tools: ["React", "CSS", "Netlify"],
     repo: "https://github.com/JohnBoulanger/portfolio-site"
@@ -48,7 +48,7 @@ const projects = [
     id: "task-manager",
     title: "Task Manager API",
     date: "2023-07-22",
-    image: "/assets/img/donkeykong.png",
+    image: "/assets/img/expic.png",
     blurb: "REST API for creating and managing tasks.",
     tools: ["Node.js", "Express", "MongoDB"],
     repo: "https://github.com/JohnBoulanger/task-manager"
@@ -57,7 +57,7 @@ const projects = [
     id: "stock-visualizer",
     title: "Stock Market Visualizer",
     date: "2023-06-14",
-    image: "/assets/img/donkeykong.png",
+    image: "/assets/img/expic.png",
     blurb: "Tool to visualize stock data with interactive graphs.",
     tools: ["Python", "Pandas", "matplotlib"],
     repo: "https://github.com/JohnBoulanger/stock-visualizer"
@@ -66,7 +66,7 @@ const projects = [
     id: "blog-platform",
     title: "Mini Blogging Platform",
     date: "2023-05-09",
-    image: "/assets/img/donkeykong.png",
+    image: "/assets/img/expic.png",
     blurb: "A small blogging platform with user authentication.",
     tools: ["Django", "SQLite", "Bootstrap"],
     repo: "https://github.com/JohnBoulanger/blog-platform"
@@ -75,7 +75,7 @@ const projects = [
     id: "game-engine",
     title: "2D Game Engine",
     date: "2023-04-25",
-    image: "/assets/img/donkeykong.png",
+    image: "/assets/img/expic.png",
     blurb: "A basic 2D game engine with physics and collision detection.",
     tools: ["C++", "SDL2"],
     repo: "https://github.com/JohnBoulanger/game-engine"
@@ -84,7 +84,7 @@ const projects = [
     id: "expense-tracker",
     title: "Expense Tracker App",
     date: "2023-03-12",
-    image: "/assets/img/donkeykong.png",
+    image: "/assets/img/expic.png",
     blurb: "Tracks personal expenses and generates monthly reports.",
     tools: ["React", "Firebase"],
     repo: "https://github.com/JohnBoulanger/expense-tracker"
@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (visibleProjectsCount + 3 < projects.length) {
       visibleProjectsCount += 3;
     }
-    if (visibleProjectsCount + 3 >= projects.length) {
+    else if (visibleProjectsCount + 3 >= projects.length) {
       visibleProjectsCount = projects.length;
       loadMoreButton.style.display = "none";  // hide button
     }
